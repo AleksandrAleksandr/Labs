@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Library.cpp
+  Создание кода...
+c:\users\александр\source\repos\project-library\project-library\library.cpp(25): warning C4715: Library::GetBook: значение возвращается не при всех путях выполнения
+  project-library.vcxproj -> C:\Users\Александр\source\repos\project-library\Debug\project-library.exe
